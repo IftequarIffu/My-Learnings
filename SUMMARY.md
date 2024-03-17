@@ -1,13 +1,13 @@
 # Table of contents
 
-* [🖌️ Getting started](README.md)
+* [🖌️ My Learnings](README.md)
 
-## INTRODUCTION
+## MONO REPOS
 
-* [Design Principles](introduction/design-principles.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [Design Principles](mono-repos/design-principles.md)
+* [Brand Guidelines](mono-repos/brand-guidelines.md)
+* [How updates work](mono-repos/how-updates-work.md)
+* [Accessibility](mono-repos/accessibility.md)
 
 ## identity
 
