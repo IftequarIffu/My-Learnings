@@ -9,12 +9,12 @@
 * [How updates work](mono-repos/how-updates-work.md)
 * [Accessibility](mono-repos/accessibility.md)
 
-## identity
+## Solidity
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Solidity Syntax and Basics](solidity/solidity-syntax-and-basics.md)
+* [Colors](solidity/colors.md)
+* [Typography](solidity/typography.md)
+* [Imagery](solidity/imagery.md)
 
 ## Components
 
